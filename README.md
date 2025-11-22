@@ -50,9 +50,8 @@ textunit-testing-lab/
 ## Cara Menjalankan Unit Test
 1. Pastikan **Java 11+** dan **Maven** sudah terinstal.
 2. Clone repository:
-```
-bashgit clone [URL_REPOSITORY]
-cd unit-testing-lab
+```bash
+git clone https://github.com/naursyy/Sistem-Perpustakaan-Sederhana.git
 ```
 3. Install dependencies:
 ```bash
